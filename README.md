@@ -1,5 +1,7 @@
 # Weekly Reports
 
-## Week One
+## Week One - Beginning 25th September
+First week back at university and we had quite an easy first week back. To start the week off we got a tour of the new games academy building then we had a lecture from Brian on Shaders which was very interesting. On Tuesday we had an introduction to the VR kit which was extremely fun and got me motivated ready to make my own VR creation. On Wednesday we had a lecture about ethics and professionalism. My biggest challenge this week was presenting my talk in front of my new team because I get very nervous when talking in front of groups and speed up making it take less time and talking too fast, to try and make this better I need to learn to relax and not care what happens and just make sure I get it done well.
 
-Write your weekly report here.
+## Week Two - Beginning 2nd October
+Second week back and all is fairly chilled still. We had another lecture with Brian who did some live coding which helped explain things I was unsure of. We had another lecture with Al where we evaluated Space Chem and he made clear to us what his report is about. We had another lecture with Mike about Ethics and Professionalism which is a very interesting topic considering people have different ethics and views. My biggest challenge this week was coming up with a specific question to focus on for my essay as topics are very broad, to improve on this I will take my essay proposal to Mikes lecture and we'll get feedback on our proposals.
