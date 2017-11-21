@@ -16,7 +16,7 @@ This week my team decided that we will most likely be using unity to develop our
 This week it was fairly challenging to come up with an interesting essay topic for the ethics essay, I spent quite a lot of time researching ethical issues in the games industry and eventually had an idea of what to base my essay on. I am still struggling with scripting in unity, I plan to spend more time working on the game and asking the BA programmer in my team when I get stuck. I was also focused on the evualtion of the usability of my previous year game for the peer review next week, this wasn't too challenging however it was fairly time consumming to get a good amount of participants to test the game.
 
 ## Week 5
-
+This week was focused on finsihing the usability report, this was not particularly challenging but it took some time to analyse all the data i had collected. We also moved onto model loading and textures in OpenGL which I am still finding difficult to fully understand, I understand it on a basic level, however I struggle when It comes to actually implementing it in C++. After watching brians live code video I feel I am starting to become more familiar with it but definetly still need more practice. I plan to work on my OpenGL project for 5-10 hours each week, especially as it is a 90% the comp220 module. 
 
 ## Week 6
 
