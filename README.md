@@ -13,7 +13,7 @@ Third week at university and the work is starting to pile together. We had a lec
 This week I managed to get a triangle and a square on screen for Comp220 and I understand how to do the cube just need to map the correct coordinates, I am unsure of what we will actually be able to make in the end for this module but hopefully it goes well. We had a joint crit for our team game, I feel as if this helped our team a little bit as we were stuck for ideas for our game and it was nice to give feedback to the other team and help them make their game better. Our team needed the help to come up with more mechanics but I think we need to come up with most of the mechanics now before it's too late to add them in. To help with this I will try to communicate my own ideas with my BA team even more as this is something I fall down on.
 
 ## Week Five - Beginning 23rd October
-
+This week was our first deadline for Al in comp 210 for which we had to make a website and analyze our date we had taken, I found this assignment a lot more fun than I expected it to be as creating a website was something new to me and something I hope to be able to learn in more depth at a later time and it is very useful, also analyzing the date wasn't too bad either. I managed to get my cube working for Brians module but overall this module is quite hard and I think will be difficult to get a good end product for this, I'm going to research GLEW and what I can do in it and hopefully that'll help me with some ideas and a little more with understanding it.
 
 ## Week Six - Beginning 30th October
 
