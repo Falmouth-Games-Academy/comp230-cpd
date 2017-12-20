@@ -16,7 +16,7 @@ This week I managed to get a triangle and a square on screen for Comp220 and I u
 This week was our first deadline for Al in comp 210 for which we had to make a website and analyze our date we had taken, I found this assignment a lot more fun than I expected it to be as creating a website was something new to me and something I hope to be able to learn in more depth at a later time and it is very useful, also analyzing the date wasn't too bad either. I managed to get my cube working for Brians module but overall this module is quite hard and I think will be difficult to get a good end product for this, I'm going to research GLEW and what I can do in it and hopefully that'll help me with some ideas and a little more with understanding it.
 
 ## Week Six - Beginning 30th October
-
+The BAs want us in every day this week as it is "reading week" to work on the team game. I spent most, if not, my whole time this week working on my team game, I need to split up my time between modules equally which is something I struggle with. I feel we made some good progress with the game this week though. To help me with splitting up my time between modules I want to start making plans on how to best divide my time as to what needs doing and I reckon this will help me more because I find it easier knowing when to do what.
 
 ## Week Seven - Beginning 6th November
 
