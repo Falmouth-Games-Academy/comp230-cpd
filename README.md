@@ -19,10 +19,10 @@ This week was our first deadline for Al in comp 210 for which we had to make a w
 The BAs want us in every day this week as it is "reading week" to work on the team game. I spent most, if not, my whole time this week working on my team game, I need to split up my time between modules equally which is something I struggle with. I feel we made some good progress with the game this week though. To help me with splitting up my time between modules I want to start making plans on how to best divide my time as to what needs doing and I reckon this will help me more because I find it easier knowing when to do what.
 
 ## Week Seven - Beginning 6th November
-
+This week I had recieved some personal news what played a lot on my mind which led me to one of the lowest weeks of my life and to make it even worse we have 3 deadlines next week. This caused me to struggle and get into a very big panic. I now realise this is what student services are for I can go to them whenever I feel like this. This was my biggest struggle this week as I've never really acknowledged this before and know they are just there to help.
 
 ## Week Eight - Beginning 13th November
-
+After my panic last week it was still going on a little bit but I managed to get everything in for my deadlines that I needed to.
 
 ## Week Nine - Beginning 20th November
 
