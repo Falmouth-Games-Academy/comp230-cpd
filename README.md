@@ -41,11 +41,15 @@ When I finish university I plan on making my own mobile games for a while then w
 
 ## Key Challenges & Smart Goals
 ## 1 - C++ Skills
+C++ plays such a large part in computing and especailly games which is why I want to better my C++ ability. I plan on making a schedule in which I will plan my time and it will include a large chunk of time spend on learning coding better but specifically C++. I shall follow tutorials and try to make my own creations using it. This can be done over several months and can help me out with the rest of the course too. It is easy to measure as I don't really use any C++ now when making games so if I used any that'd be a big improvment.
 
 ## 2 - Motivation
+Sometimes I struggle to feel motivated to do almost any work. This is why I need help to keep myself motivated, to do this I shall plan my time out each week and set myself goals every week, if I achieve these goals I shall reward myself, this should help keep myself motivated and should help me to produce better work and have a more consistent work flow. I shall record how well I do this every week and try to better myself every week.
 
 ## 3 - Not Asking For Help Last Minute
 
+
 ## 4 - Self help
+
 
 ## 5 - Communicate Better With Others
