@@ -47,9 +47,10 @@ C++ plays such a large part in computing and especailly games which is why I wan
 Sometimes I struggle to feel motivated to do almost any work. This is why I need help to keep myself motivated, to do this I shall plan my time out each week and set myself goals every week, if I achieve these goals I shall reward myself, this should help keep myself motivated and should help me to produce better work and have a more consistent work flow. I shall record how well I do this every week and try to better myself every week.
 
 ## 3 - Not Asking For Help Last Minute
-
+This has been a big issue of mine for a long time, last year  I didn't ask for help at all however this year I've been asking for help but I tend to do it at the last minute. To stop myself doing this I need to ask when I'm first stuck instead of leaving it until weeks after when it's not as relevant anymore, this will also help me produce better work on a more consistent basis. To measure this I will try to track when I get stuck and when I've asked for help.
 
 ## 4 - Self help
-
+This term I struggled more than I ever have with my own mental health and it played such a huge part on my work. I've come to realise that student support is there and that from now on I should go and see them immediately when I'm feeling down instead of leaving that until my deadlines are only a few days away. After all how I feel should be my number one priority. To help me track this I shall start keeping a diary of how I feel and any problems I come across in my everyday life.
 
 ## 5 - Communicate Better With Others
+I've never been the best at communicating with others, especially those I don't know very well. This has come up a few times while making our team game and it is something I am working to improve on. To help me improve on it I am trying to be more vocal during stand ups and push my ideas more to my team. To help me measure this I am hoping my peer review feedback goes up for our game group. 
