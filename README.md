@@ -22,10 +22,10 @@ The BAs want us in every day this week as it is "reading week" to work on the te
 This week I had recieved some personal news what played a lot on my mind which led me to one of the lowest weeks of my life and to make it even worse we have 3 deadlines next week. This caused me to struggle and get into a very big panic. I now realise this is what student services are for I can go to them whenever I feel like this. This was my biggest struggle this week as I've never really acknowledged this before and know they are just there to help.
 
 ## Week Eight - Beginning 13th November
-After my panic last week it was still going on a little bit but I managed to get everything in for my deadlines that I needed to.
+After my panic last week it was still going on a little bit but I managed to get everything in for my deadlines that I needed to. Jonny and I pair programmed two / three functions for Brians maths libary which we were happy about because initially we had no idea what we were doing, this could have been solved much easier if we had just asked for help to understand it a little better. This week we also had a peer review for our ethics essays in which I got some feedback which I hoped help me to up my grade, I felt good once I had handed in my essay because I believe it was good. My biggest struggle was the maths libary, it was a problem which was solved so easily I just needed the initial help.
 
 ## Week Nine - Beginning 20th November
-
+This week we did post processing with Brian which I found very interesting and plan to implement myself, I don't know how I'm going to do this so I'll need to research the best way to add it in.
 
 ## Week Ten - Beginning 27th November
 
