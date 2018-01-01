@@ -40,3 +40,12 @@ Last week of term and I spent the majoirty of this week making a few changes and
 When I finish university I plan on making my own mobile games for a while then working for or starting my own small indie development team. I prefer to teach myself things I am interested in learning because then I feel very interested in what I am doing. I also want to be my own boss because I want to be responsible for what is going on then I have no one else to blame other than me and it will drive me to make the best games I can. After making games for several years I'd be interested in moving to another field in computing such as security. To help me progress towards these goals I've started researching the best ways to do mobile development and I plan on making several games over the summer for my project, I want to learn how the market works as well and what sells, as a game without sales is pointless. Over the next few years after university I will teach myself other fields of computing which I find interesting.
 
 ## Key Challenges & Smart Goals
+## 1 - C++ Skills
+
+## 2 - Motivation
+
+## 3 - Not Asking For Help Last Minute
+
+## 4 - Self help
+
+## 5 - Communicate Better With Others
