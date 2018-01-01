@@ -25,7 +25,7 @@ This week I had recieved some personal news what played a lot on my mind which l
 After my panic last week it was still going on a little bit but I managed to get everything in for my deadlines that I needed to. Jonny and I pair programmed two / three functions for Brians maths libary which we were happy about because initially we had no idea what we were doing, this could have been solved much easier if we had just asked for help to understand it a little better. This week we also had a peer review for our ethics essays in which I got some feedback which I hoped help me to up my grade, I felt good once I had handed in my essay because I believe it was good. My biggest struggle was the maths libary, it was a problem which was solved so easily I just needed the initial help.
 
 ## Week Nine - Beginning 20th November
-This week we did post processing with Brian which I found very interesting and plan to implement myself, I don't know how I'm going to do this so I'll need to research the best way to add it in.
+This week we did post processing with Brian which I found very interesting and plan to implement myself, I don't know how I'm going to do this so I'll need to research the best way to add it in. I was feeling poorly the next few days and couldn't attend the CPD review session. My biggest struggle this week was motivation to do my work, I have periods where I feel very low and can't bring myself to do work, this is something I need help with.
 
 ## Week Ten - Beginning 27th November
 
