@@ -31,7 +31,7 @@ This week the majority of my team agreed on making a new game because we were st
 During this week I spent a lot of time working on my hololens project, I was having problems deploying my game to the hololens which was making it harder to develop because I couldn't test the game. After asking Al for some help I managed to get it working and I could test the game. I'm glad I asked for help rather than spending hours trying to figure it out by myself. A big challenge I faced was implementing a random item spawner for my collaborative game, I couldn't figure out how to ensure that an item wouldn't spawn in a used spawn point. I didn't ask for help for this and it took me a long time to solve this problem. I believe if I was more proficient at C# it would not have taken me so long so I plan to do a couple hours of C# practice a at least two days each week. 
 
 ## Week 11 - Beginning 4th December
-
+This week Brian showed us how to create a class for game objects in our OpenGL projects, this was very helpful as it allowed us to easily render multiple objects in the scene. However it also meant I had to put change the C++ code that allowed bullet physics to work with my model to work with the game object class. I spent some time attempting to do this but because I couldn't do it I decided to postpone it until I had finished my other projects which were due before this. I think with some more C++ practice I will be able to solve small problems like this fairly easily. I can get this practice by working on my OpenGL project over christmas and also try some C++ challenges on hackerrank.com.
 
 ## Week 12 - Beginnimg 11th December
 
