@@ -1,5 +1,6 @@
 # Weekly Reports
 
+# Term One
 ## Week One - Beginning 25th September
 First week back at university and we had quite an easy first week back. To start the week off we got a tour of the new games academy building then we had a lecture from Brian on Shaders which was very interesting. On Tuesday we had an introduction to the VR kit which was extremely fun and got me motivated ready to make my own VR creation. On Wednesday we had a lecture about ethics and professionalism. My biggest challenge this week was presenting my talk in front of my new team because I get very nervous when talking in front of groups and speed up making it take less time and talking too fast, to try and make this better I need to learn to relax and not care what happens and just make sure I get it done well.
 
@@ -54,3 +55,7 @@ This term I struggled more than I ever have with my own mental health and it pla
 
 ## 5 - Communicate Better With Others
 I've never been the best at communicating with others, especially those I don't know very well. This has come up a few times while making our team game and it is something I am working to improve on. To help me improve on it I am trying to be more vocal during stand ups and push my ideas more to my team. To help me measure this I am hoping my peer review feedback goes up for our game group. 
+
+# Term Two
+## Week One - Beginning 29th January
+First week back for the second term and everything went fairly well. On Monday we had a lecture with Ed about AI which is good because I need to learn about AI to make it for our team game. On Tuesday we had a lecture about servers with Gareth this was a lot more interesting than I thought it'd be. On Wednesday we had a lecture about business and marketing which I found enjoyable and useful. The rest of the week I was working on my team game in which my hardest struggle was finding things to work on as there isn't a lot left on the trello board so we're waiting on the designers for more.
