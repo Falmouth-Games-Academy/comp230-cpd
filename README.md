@@ -59,3 +59,12 @@ I've never been the best at communicating with others, especially those I don't 
 # Term Two
 ## Week One - Beginning 29th January
 First week back for the second term and everything went fairly well. On Monday we had a lecture with Ed about AI which is good because I need to learn about AI to make it for our team game. On Tuesday we had a lecture about servers with Gareth this was a lot more interesting than I thought it'd be. On Wednesday we had a lecture about business and marketing which I found enjoyable and useful. The rest of the week I was working on my team game in which my hardest struggle was finding things to work on as there isn't a lot left on the trello board so we're waiting on the designers for more.
+
+## Week Two - Beginning 5th February
+Second week back and everything was going well, we had a few lectures on AI, business and remote networking, I am already enjoying these modules and I hope to take lots out of these becasue they are very useful when it comes to making and trying to sell games. I didn't really struggle with anything this week as we are just getting back into the swing of things.
+
+## Week Three - Beginning 12th February
+This week we had to show off our AI proposals which gave me more insight on how to make my AI which I found useful. Gareth showed us a client chat system which I have begun to look at, at home trying to figure out what is going on. However I spent most of my time this week working on our team game banging out some tasks which needed done. The biggest challenge this week was again waiting on more work to program for the game.
+
+## Week Four - Beginning 19th February
+This week I spent most of my time working on my MUD, I spent so long on it this week because I only realised it was due next week and had to get it working. After a few days of playing around with it and some help from Gareth I managed to get two + clients working on it at the same time, if I have any time left next week I'll attempt to add chat. Our team game is coming along very well compared to how it was coming before the challenge is now finding things to work on for it as I'm doing the AI work at home in my own time. The designers aren't doing design work which makes it hard for us programmers.
