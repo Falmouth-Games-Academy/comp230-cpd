@@ -1,5 +1,7 @@
 # Weekly Reports
 
+# Term One
+
 ## Week 1 - Beginning 25th September
 The most challenging thing this week was presenting my world idea to my team. I had practiced presenting beforehand so I feel like it was an improvement over my presentations last year, however I was still quite nervous and felt like I rushed it. I also found the SDL and OpenGL programming quite overwhelming but brians live coding video helped me to understand it a bit better.
 
@@ -38,3 +40,17 @@ At the beggining of this week I was finishing my hololens project for the peer r
 
 ## Summary 
 My career goals haven't changed since last year, I still aspire to being a successful game developer in the future whether that is through starting a small indie development team, working in a large company and making AAA games or even freelancing. Now that I am half way through this degree I feel that I have learnt a huge amount about game development and believe that I have developed some good programming/scripting skills through making games and working on various projects involving programming. Five key challenges I have faced this term were communication, asking for help, problem solving, programming proficiency, and dedication. To overcome commuication I will make sure that If I have an idea or opinion I won't keep it to myself I will talk to my team about it, in addition to this if I need some help I will ask one of my teams programmers for help to improve my asking for help. To improve my programming proficiency I will complete challenges or hackerrank.com and work on my programming projects more often, this will also improve my problem solving skills. To overcome my lack of dedication I will reward myself when I complete work without delaying it and I will think about how I will benefit from doing the task earlier rather than later.
+
+# Term Two
+
+## Week One - Beginning 29th January
+First week back, there wasn't many big challenges, although I do feel like I could have done more work on my collaborative game this week. I did very little work over the 3 weeks prior to teaching which didn't help me get back into working regularly. In addition to this I found it hard to know what to implement to our game, probably due to the lack of good sprint planning.
+
+## Week Two - Beginning 5th February
+I started to do some more work on the team game this week but probably still not as much as I should be doing. I've been enjoying the modules this term so far, particularly AI. I'm excited to learn more about advanced AI and hope to implement some into my team game. Didn't have any significant challenges this week.
+
+## Week Three - Beginning 12th February
+This week I did some more work on the team game, AI in particular. I had some challenges while implementing the basic zombie AI but after I spent enough time working on it I managed to fix most of the issues. The lectures were again very interseting this week, learning a lot about distributed systems, AI, and business.
+
+## Week Four - Beginning 19th February
+This week I found out that I had an assignment due the following week so I spent the whole week focusing on that. It was very challenging trying to understand how to get the threading working on both the clients and the server in order to send messages to all the clients at the right time. I made a bit of progress each day and eventually had a fairly decent MUD working with both local and global chat implemented. Another challenge was trying not to neglect working on the team game this week, but found it hard to focus on working on it since I was more focused on finishing the MUD.
