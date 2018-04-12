@@ -43,14 +43,24 @@ My career goals haven't changed since last year, I still aspire to being a succe
 
 # Term Two
 
-## Week One - Beginning 29th January
+## Week 1 - Beginning 29th January
 First week back, there wasn't many big challenges, although I do feel like I could have done more work on my collaborative game this week. I did very little work over the 3 weeks prior to teaching which didn't help me get back into working regularly. In addition to this I found it hard to know what to implement to our game, probably due to the lack of good sprint planning.
 
-## Week Two - Beginning 5th February
+## Week 2 - Beginning 5th February
 I started to do some more work on the team game this week but probably still not as much as I should be doing. I've been enjoying the modules this term so far, particularly AI. I'm excited to learn more about advanced AI and hope to implement some into my team game. Didn't have any significant challenges this week.
 
-## Week Three - Beginning 12th February
+## Week 3 - Beginning 12th February
 This week I did some more work on the team game, AI in particular. I had some challenges while implementing the basic zombie AI but after I spent enough time working on it I managed to fix most of the issues. The lectures were again very interseting this week, learning a lot about distributed systems, AI, and business.
 
-## Week Four - Beginning 19th February
+## Week 4 - Beginning 19th February
 This week I found out that I had an assignment due the following week so I spent the whole week focusing on that. It was very challenging trying to understand how to get the threading working on both the clients and the server in order to send messages to all the clients at the right time. I made a bit of progress each day and eventually had a fairly decent MUD working with both local and global chat implemented. Another challenge was trying not to neglect working on the team game this week, but found it hard to focus on working on it since I was more focused on finishing the MUD.
+
+## Week 5 - Beginning 19th February
+
+## Week 6 - Beginning 19th February
+
+## Week 7 - Beginning 19th February
+
+## Week 8 - Beginning 19th February
+
+## Week 9 - Beginning 19th February
