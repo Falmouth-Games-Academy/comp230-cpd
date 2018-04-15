@@ -57,10 +57,24 @@ This week I found out that I had an assignment due the following week so I spent
 
 ## Week 5 - Beginning 19th February
 
-## Week 6 - Beginning 19th February
 
-## Week 7 - Beginning 19th February
+## Week 6 - Beginning 26th February
 
-## Week 8 - Beginning 19th February
 
-## Week 9 - Beginning 19th February
+## Week 7 - Beginning 5th March
+
+
+## Week 8 - Beginning 12th February
+
+
+## Week 9 - Beginning 19th March
+
+
+## Week 10 - Beginning 9th April
+
+
+## Week 11 - Beginning 16th April
+
+
+## Week 11 - Beginning 23rd April
+
