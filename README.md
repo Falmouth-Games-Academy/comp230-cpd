@@ -68,3 +68,19 @@ This week we had to show off our AI proposals which gave me more insight on how 
 
 ## Week Four - Beginning 19th February
 This week I spent most of my time working on my MUD, I spent so long on it this week because I only realised it was due next week and had to get it working. After a few days of playing around with it and some help from Gareth I managed to get two + clients working on it at the same time, if I have any time left next week I'll attempt to add chat. Our team game is coming along very well compared to how it was coming before the challenge is now finding things to work on for it as I'm doing the AI work at home in my own time. The designers aren't doing design work which makes it hard for us programmers.
+
+## Week Five - Beginning 26th February
+This week I already assumed my biggest struggle would be presenting my business case, however this was not the case, my business case went a lot better than I expected and I think this is due to the fact we only had to present it to Gareth. One person is fine but when you add more to the equation my anxiety goes up, also Gareth is very easy going. As mentioned a long time ago, my public speaking abilities are something I'd like to work on but find very hard.
+
+## Week Six - Beginning 5th March
+
+
+## Week Seven - Beginning 12th March
+This week I realized the behaviour trees I was using for my AI didn't work exactly how I wanted it too for what I needed it to do, so I reverted back to using event graphs and construction scripts which has made it much easier to do my game AI as there aren't that many states. I spent weeks trying to get it to work how I wanted it too with behaviour trees but there was a new issue popping up every day so it was time for change.
+
+## Week Eight - Beginning 19th March
+This week my biggest stress this week was trying to make sure all my work was done in time for my deadlines this week and up to a standard I was happy with. I really stress at every deadline even if I know everything will be fine. I managed this with a day to spare for my last one, I was happy with this as I feel my business case turned out to be quite a good piece or work. The research journals this term weren't my facorite as we were assigned our own topics, some people got topics I was way more interested in and I got stuck with something I wouldn't choose for myself, that's just how things go.
+
+## Week Nine - Beginning 9th April
+
+## Week Ten - Beginning 16th April
