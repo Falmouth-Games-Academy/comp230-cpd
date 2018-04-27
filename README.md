@@ -85,3 +85,7 @@ This week my biggest stress this week was trying to make sure all my work was do
 This week we're back to uni for the third term, not long left to go, the pressure is starting to hit me hard. As term is winding down and people are starting to get ready for Summer this is when I need to work the hardest to ensure everything is done. Time is moving very quickly. My biggest struggle is managing my time effectively, I have never been good at this and probably plays a large part in the enormous stress I face.
 
 ## Week Ten - Beginning 16th April
+This week I got my game AI working how I wanted it to and began looking at the API for MicroRTS. I was feeling quite stressed knowing all the work is due in very soon. My biggest struggle this week was getting my game AI to work how I wanted it to due to the poor design of the map I had to change it to construction scripts and get some help from Brian as to what to do.
+
+## Week Eleven - Beginning 23rd April
+This week I spent the majority of my time working on my Micro RTS bot, this has been one of my favorite modules we've had, I just wish I started work on it sooner. The stress is going away a little bit knowing I have done most of my work up to a standard that will get me a passing grade, there is only one thing I am stressed about now and that is the networking module as I haven't played around with it enough yet to know what I am doing. I submitted my game this week, it turned out OK in the end, I wish there were more jump scares, but people actually seemed to be scared of my AI which pleased me.
