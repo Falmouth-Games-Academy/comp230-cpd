@@ -49,3 +49,5 @@
 
 
 ## Week Thirteen
+
+Game was handed in this week still no closer to understanding what to do for the clent server essay and don't have the time to do it either as I have left all assignment until after the game hand in.
