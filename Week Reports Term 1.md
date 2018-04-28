@@ -32,3 +32,9 @@ I spent most of this week finnishing assignments and making sure my entry in the
 ## Week Eight
 
 3 assignments due in this week, due to my good time management skills they are all finished and ready to hand in. There was also a peer-review on the ethics assignment before its hand in. I learnt that I create very long sentences but I think this also shows that I still don't understand puctuation which deffinatly needs to improve.
+
+## Week Nine
+## Week Ten
+## Week Eleven
+## Week Twelve
+## Week Thirteen
