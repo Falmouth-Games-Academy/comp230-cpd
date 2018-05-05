@@ -55,26 +55,27 @@ This week I did some more work on the team game, AI in particular. I had some ch
 ## Week 4 - Beginning 19th February
 This week I found out that I had an assignment due the following week so I spent the whole week focusing on that. It was very challenging trying to understand how to get the threading working on both the clients and the server in order to send messages to all the clients at the right time. I made a bit of progress each day and eventually had a fairly decent MUD working with both local and global chat implemented. Another challenge was trying not to neglect working on the team game this week, but found it hard to focus on working on it since I was more focused on finishing the MUD.
 
-## Week 5 - Beginning 19th February
+## Week 5 - Beginning 26th February
+I spent a lot of time trying to get behaviour trees to work for my game component AI this week. There wasn't much online help so it was very hard to figure out how everything in the behaviour machine plugin worked. In the end I couldn't get it to do what I wanted it to do so I continued working on it just using scripting to be ready for the peer review next week.
 
+## Week 6 - Beginning 5th March
+During reading week I didn't do as much work as I could have, but I did at least do some. I started working on some of my upcoming research journals and essays, I should have also worked on the team game this week but didn't do that. I found my self procrastinating a lot this week. This has always been a problem of mine, I plan to start a self improvement journal in which I will set my self some goals at the start of each day and tick them off, this way I can see my progress and I will always know what to work on. 
 
-## Week 6 - Beginning 26th February
+## Week 7 - Beginning 12th February
+This week we had to present our business cases, I was fairly nervous about this however it wasn't as bad as I expected. After presenting gareth gave me some good feedback that helped me prepare my report over the weekend for the peer review. I had not started the report yet so I spent a lot of time over this weekend working on it, which was my biggest challenge this week.
 
+## Week 8 - Beginning 19th March
+This week I got pretty stressed trying to finsihing the research journals and business case before the deadlines during this week. The most challenging one was the business case since it was so long, but I worked together with some friends and we got it done by the deadline. Next time I would like to have the work done the week before so I don't stress about it so much. 
 
-## Week 7 - Beginning 5th March
+## Week 9 - Beginning 9th April
+After coming back from my easter break not having done any work over easter, I was hit with the realisation that I still have quite a lot of work to do and not that long left to do it. Because I hadn't worked on the team game over easter I was quite worried that my team would not be happy with me, which probably just made it worse because it made me not want to confront them. I didn't do much work this week, this was due to stress, not knowing where to start or what to work on and procrastination. All of these are things I need to improve. 
 
-
-## Week 8 - Beginning 12th February
-
-
-## Week 9 - Beginning 19th March
-
-
-## Week 10 - Beginning 9th April
-
-
-## Week 11 - Beginning 16th April
-
+## Week 10 - Beginning 16th April
+This week I decided to try getting the behaviour trees to work again, after hours of struggling I finally got something, It was the first step. I left it there for now planning to go back to it at a later date to finish it off. I then also began working on my microRTS bot but didn't really understand it and didn't know where to start with it. 
 
 ## Week 11 - Beginning 23rd April
+I came back to the game AI this week and continued trying to get the behaviour trees doing what I wanted them to do but I just couldn't figure it out so I ended up polishing what I already had with the scripts and submitting that. The peer review for the microRTS bots was posponed a week and instead Ed showed us how to get started with our bots. This was very helpful and by the end of the week I had I pretty good bot in the top 5 on the class leaderboard.
+
+## Week 12 Beginning 30 April
+With the AI submitted the one big assignment remaining was the client server task. This has been the most challenging assignment this term, without the help from gareth I would still be stuck not knowing how to put a database into my program. I came into the studio most days this week and worked on this client server task, struggling each day and getting stressed about countless errors. After gareth showed us how to implement SQL into the basic SUD program I figured it all out and got it working with my MUD. 
 
