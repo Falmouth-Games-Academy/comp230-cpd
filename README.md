@@ -89,3 +89,6 @@ This week I got my game AI working how I wanted it to and began looking at the A
 
 ## Week Eleven - Beginning 23rd April
 This week I spent the majority of my time working on my Micro RTS bot, this has been one of my favorite modules we've had, I just wish I started work on it sooner. The stress is going away a little bit knowing I have done most of my work up to a standard that will get me a passing grade, there is only one thing I am stressed about now and that is the networking module as I haven't played around with it enough yet to know what I am doing. I submitted my game this week, it turned out OK in the end, I wish there were more jump scares, but people actually seemed to be scared of my AI which pleased me.
+
+## Weel Twelve - Beginning 30th April
+This week was very stressful attempting to get the server stuff working because I had no idea where to start. I made sure I was in uni everyday getting as much help as I could so I didn't leave it to the very last minute. Knowing I had more work than most of the class and knowing I got it working in the end lifted a huge weight off my chest and I felt summer was very close at this point.
